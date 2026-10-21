@@ -219,8 +219,8 @@ Reliance_retail/
 │   └── Store&Product_Analytics.png
 │
 └── Documentation/
-    ├── Project_Report.pdf
-    └── Data_Dictionary.xlsx
+    ├── Reliance_Retail_Presentation.pdf
+    
 ```
 ## 13. Conclusion
 
