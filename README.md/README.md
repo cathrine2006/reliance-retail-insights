@@ -175,6 +175,8 @@ The dashboard metrics and visualizations support the following areas of analysis
 
 ![Executive Sales Overview](Screenshot/Executive_Sales_Overview1.png)
 
+![Executive Sales Overview 2](Screenshot/Executive_Sales_Overview2.png)
+
 ### Customer Analytics
 
 ![Customer Analytics](Screenshot/Customer_Analytics.png)
