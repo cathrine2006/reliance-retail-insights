@@ -70,7 +70,6 @@ Important columns include:
 | `Order Channel` | Order channel |
 | `Payment Method` | Payment method |
 
-The dataset is synthetic and should not be interpreted as actual Reliance Retail business data.
 
 ## 6. Project Workflow
 
@@ -171,14 +170,14 @@ The dashboard metrics and visualizations support the following areas of analysis
 - **Geographical analysis:** State-wise visuals help examine differences in sales and customer distribution across states.
 - **Sales trends and payment methods:** Monthly trend, monthly sales by order channel, and payment-method visuals make it possible to compare sales patterns across months, channels, and payment methods.
 
-All figures and observations above relate to the **synthetic educational dataset**, not actual Reliance Retail business performance. Specific rankings or causal conclusions should only be stated when confirmed by the relevant visual and data.
 ## 11. Power BI Dashboard Screenshots
 
-Dashboard screenshot links use the following expected paths. The images must be uploaded to the repository using these filenames for them to render.
 
 ### Executive Sales Overview
 
 ![Executive Sales Overview](Screenshot/Executive_Sales_Overview1.png)
+
+![Executive Sales Overview 2](Screenshot/Executive_Sales_Overview2.png)
 
 ### Customer Analytics
 
