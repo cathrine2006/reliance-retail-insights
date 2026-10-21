@@ -49,27 +49,28 @@ This project focuses on retail sales and business performance analysis. A synthe
 
 Important columns include:
 
-| Column | Description |
-|---|---|
-| `Transaction_ID` | Transaction reference |
-| `Date` | Transaction date |
-| `Store_ID` | Store identifier |
-| `Customer_ID` | Customer identifier |
-| `Product_ID` | Product identifier |
-| `Category` | Product category |
-| `Quantity` | Quantity sold |
-| `Sales_Amount` | Sales value |
-| `Profit` | Profit value |
-| `Customer_Type` | Customer classification |
-| `Business_Segment` | Business segment |
-| `Month` | Month associated with the transaction |
-| `State` | State associated with the transaction |
-| `City` | City associated with the transaction |
-| `Discount_Percent` | Discount percentage |
-| `Store_Type` | Store classification |
-| `Order Channel` | Order channel |
-| `Payment Method` | Payment method |
+- Transaction_ID: Unique transaction reference
+- Date: Transaction date
+- Store_ID: Store identifier
+- Customer_ID: Customer identifier
+- Product_ID: Product identifier
+- Category: Product category
+- Quantity: Quantity sold
+- Sales_Amount: Sales value
+- Profit: Profit value
+- Customer_Type: Customer classification
+- Business_Segment: Business segment
+- Month: Month associated with the transaction
+- State: State associated with the transaction
+- City: City associated with the transaction
+- Discount_Percent: Discount percentage
+- Store_Type: Store classification
+- Order_Channel: Order channel
+- Payment_Method: Payment method
 
+Dataset Description
+
+The dataset contains retail transaction details related to sales, customers, products, stores, discounts, business segments, locations, and payment methods. These fields help analyze different aspects of retail business performance.
 
 ## 6. Project Workflow
 
