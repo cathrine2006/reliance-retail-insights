@@ -219,7 +219,7 @@ Reliance_retail/
 │   └── Store&Product_Analytics.png
 │
 └── Documentation/
-    ├── Reliance_Retail_Presentation.pdf
+    └── Reliance_Retail_Presentation.pdf
     
 ```
 ## 13. Conclusion
