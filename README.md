@@ -176,17 +176,24 @@ The dashboard metrics and visualizations support the following areas of analysis
 
 ### Executive Sales Overview
 
+
 ![Executive Sales Overview](Screenshot/Executive_Sales_Overview1.png)
+
 
 ![Executive Sales Overview 2](Screenshot/Executive_Sales_Overview2.png)
 
+
 ### Customer Analytics
+
 
 ![Customer Analytics](Screenshot/Customer_Analytics.png)
 
+
 ### Store & Product Analytics
 
+
 ![Store & Product Analytics](Screenshot/Store&Product_Analytics.png)
+
 
 ## 12. Project Folder Structure
 
